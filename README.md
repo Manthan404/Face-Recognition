@@ -1,1 +1,1 @@
-# Face-Recognition-app using opencv
+# Face-Recognition-app using cv2
